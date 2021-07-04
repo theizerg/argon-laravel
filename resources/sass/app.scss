@@ -1,0 +1,35 @@
+
+
+
+$fa-font-path: "../webfonts";
+
+// Variables
+@import 'argon/assets/css/argon.css';
+
+//plugins
+@import 'argon/assets/vendor/nucleo/css/nucleo.css';
+@import 'argon/assets/vendor/@fortawesome/fontawesome-free/css/all.min.css';
+@import 'argon/assets/vendor/animate.css/animate.min.css';
+@import 'argon/assets/vendor/select2/dist/css/select2.min.css';
+@import 'argon/assets/vendor/quill/dist/quill.core.css';
+@import 'argon/assets/vendor/datatables.net-bs4/css/dataTables.bootstrap4.min.css';
+@import 'argon/assets/vendor/datatables.net-buttons-bs4/css/buttons.bootstrap4.min.css';
+@import 'argon/assets/vendor/datatables.net-select-bs4/css/select.bootstrap4.min.css';
+@import 'argon/assets/vendor/fullcalendar/dist/fullcalendar.min.css';
+
+@import "toastr/toastr.scss";
+@import "~icheck/skins/square/blue.css";
+
+// pace-progress
+@import "~@dlghq/pace-progress/themes/blue/pace-theme-minimal.css";
+
+//Iconos
+@import '~themify-icons/themify-icons/_themify-icons.scss';
+@import '~material-design-iconic-font/scss/material-design-iconic-font.scss';
+@import '~@icon/ionicons/ionicons.css';
+@import '~@icon/dripicons/dripicons.css';
+@import '~@icon/dashicons/dashicons.css';
+
+//flag
+@import '~admin-lte/plugins/flag-icon-css/css/flag-icon.css';
+
